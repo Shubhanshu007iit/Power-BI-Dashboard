@@ -1,3 +1,2 @@
-# Power-BI-Dashboard
+# shubhanshu kumar 
 
-COVID-19 GLOBAL DASHBOARD
